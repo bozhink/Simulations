@@ -1,4 +1,4 @@
-package btwavalanche;
+package run;
 
 import btw.*;
 import java.awt.Color;
